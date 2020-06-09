@@ -1,7 +1,7 @@
 {
  "autoload" : {
    "psr-4" : {
-     "fornet\\": "vendor/fornet",
+     "fornet\\": "vendor/fornet/core",
      "app\\": "app"
    }
  },

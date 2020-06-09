@@ -20,7 +20,7 @@ class ComposerStaticInit4106bed6a7408416a2498bf8331f9b5d
     public static $prefixDirsPsr4 = array (
         'fornet\\' => 
         array (
-            0 => __DIR__ . '/..' . '/fornet',
+            0 => __DIR__ . '/..' . '/fornet/core',
         ),
         'app\\' => 
         array (

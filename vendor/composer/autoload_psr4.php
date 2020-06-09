@@ -6,6 +6,6 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'fornet\\' => array($vendorDir . '/fornet'),
+    'fornet\\' => array($vendorDir . '/fornet/core'),
     'app\\' => array($baseDir . '/app'),
 );
