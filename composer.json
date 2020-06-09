@@ -1,0 +1,9 @@
+{
+ "autoload" : {
+   "psr-4" : {
+     "fornet\\": "vendor/fornet",
+     "app\\": "app"
+   }
+ },
+  "require": {}
+}
