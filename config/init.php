@@ -11,4 +11,3 @@ define("CONF", ROOT.'/config');
 define("LAYOUT", 'default');
 
 require_once ROOT. '/vendor/autoload.php';
-echo 'hell';
